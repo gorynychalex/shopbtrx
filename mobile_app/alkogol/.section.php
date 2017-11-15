@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Алкоголь";
+$arDirProperties = Array(
+
+);
+?>
